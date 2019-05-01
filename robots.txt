@@ -1,0 +1,3 @@
+# another day, pal
+User-agent: *
+Disallow: /
